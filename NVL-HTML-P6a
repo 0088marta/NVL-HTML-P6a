@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>Equipos de la liga de futbol nacional</title>
+   </head>
+   <body>
+      <h1>Liga de futbol nacional</h1/
+      <p>En el siguiente artículo vamos a nombrar una lista de los equipos de la liga de futbol nacional de primera división enh las fechas 2019-2020</p>
+      <ol>
+         <li>Athletic Club</li>
+         <li>Real Club Celta de Vigo</li>
+         <li>Club Atlético de Madrid</li>
+         <li>Real Club Deportivo Español</li>
+         <li>Club Deportivo Leganés</li>
+         <li>Real Madrid Club de Futbol</li>
+         <li>Deportivo Alavés</li>
+         <li>Real Sociedad de futbol</li>
+         <li>Fulbot Club Barcelona</li>
+         <li>Real Valladolid Club de Futbol</li>
+         <li>Getafe Club de Futbol</li>
+         <li>Sevilla Futbol Club</li>
+         <li>Club Atlético Osasuna</li>
+         <li>Sociedad Deportiva Eibar</li>
+         <li>Levante Unión Deportiva</li>
+         <li>Granada Club de Futbol</li>
+         <li>Real Club Deportivo Mallorca</li>
+         <li>Valencia Club de Futbol</li>
+         <li>Real Bétis Balompié</li>
+         <li>Villareal Club de Futbol</li>
+      </ol>
+      <img src="img-liga-futbol-nacional.jpg" alt="logode la liga de futbol nacional">
+   </body>
+</html>   
